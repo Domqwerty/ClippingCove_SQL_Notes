@@ -7,6 +7,13 @@ ClippingCove is a note-taking application built using Python and the Tkinter GUI
 - Search notes by keyword
 - Modify existing notes
 - Delete notes
+
+![ClippingCove -list-]([(https://imgur.com/MQzPAVx)])
+
+
+
+
+
 ## Dependencies
 
 - Python 3.x
