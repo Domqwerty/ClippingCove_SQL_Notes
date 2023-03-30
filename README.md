@@ -1,5 +1,5 @@
-**ClippingCove SQL Notes**
-ClippingCove is a note-taking application built using Python and the Tkinter GUI toolkit. It allows users to create, search, modify, and delete notes, which are stored in a SQLite database.
+**ClippingCove**
+is a note-taking application built using Python and the Tkinter GUI toolkit. It allows users to create, search, modify, and delete notes, which are stored in a SQLite database.
 
 ## Features
 
