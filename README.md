@@ -10,13 +10,13 @@ ClippingCove is a note-taking application built using Python and the Tkinter GUI
 
 ![ClippingCove -list-](https://imgur.com/CQs1zQ4.png)
 
-![ClippingCove -list-](https://imgur.com/f4XlpD5.png)
+![ClippingCove -add_note-](https://imgur.com/f4XlpD5.png)
 
-![ClippingCove -list-](https://imgur.com/3HReSPs.png)
+![ClippingCove -search-](https://imgur.com/3HReSPs.png)
 
-![ClippingCove -list-](https://imgur.com/lvyxX8s.png)
+![ClippingCove -del-](https://imgur.com/lvyxX8s.png)
 
-![ClippingCove -list-](https://imgur.com/ofh3xEL.png)
+![ClippingCove -quit-](https://imgur.com/ofh3xEL.png)
 
 
 
